@@ -1,13 +1,13 @@
 
 * {
-  box-sizing: borger-box
+  box-sizing: borger-box;
 }
 
 
 .menu {
   font-family: "Times New Roman", serif;
   font-size: 16px;
-  word-spacing: 10px;
+  word-spacing: 5px;
 }
 
 .menu a {
@@ -23,8 +23,7 @@
 
 .container {
   font-family: "Times New Roman", serif;
-  width: 60vw;
-  min-width: 250px;
+  width: 90%;
   max-width: 900px;
   margin: 50px auto;
   text-align: justify;
