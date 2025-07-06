@@ -18,7 +18,7 @@
 .container {
   font-family: "Times New Roman", serif;
   width: 70vw;
-  min-width: 576px;
+  min-width: 300px;
   max-width: 992px;
   margin: 50px auto;
   text-align: justify;
